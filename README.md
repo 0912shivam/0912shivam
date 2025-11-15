@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there I'm Shivam Sharma 👋
 
 🔭 Full-Stack Developer | React & Node.js | GenAI | JavaScript | C++ | Python
 
